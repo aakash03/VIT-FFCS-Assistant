@@ -1,0 +1,17 @@
+c:\users\hp1\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\hp1\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\hp1\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\hp1\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\hp1\Documents\Visual Studio 2015\Projects\VIT FFCS Assistant\VIT FFCS Assistant\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\hp1\Documents\Visual Studio 2015\Projects\VIT FFCS Assistant\VIT FFCS Assistant\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\hp1\Documents\Visual Studio 2015\Projects\VIT FFCS Assistant\VIT FFCS Assistant\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\hp1\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\VIT FFCS Assistant.exe.config
+C:\Users\hp1\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\VIT FFCS Assistant.exe.manifest
+C:\Users\hp1\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\VIT FFCS Assistant.application
+C:\Users\hp1\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\VIT FFCS Assistant.exe
+C:\Users\hp1\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\VIT FFCS Assistant.pdb
+C:\Users\hp1\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\VIT FFCS Assistant.exe.manifest
+C:\Users\hp1\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\VIT FFCS Assistant.application
+C:\Users\hp1\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\VIT FFCS Assistant.exe
+C:\Users\hp1\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\VIT FFCS Assistant.pdb
+C:\Users\hp1\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
